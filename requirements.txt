@@ -1,0 +1,4 @@
+tweepy==4.15.0
+requests
+beautifulsoup4
+python-dotenv
